@@ -1,5 +1,5 @@
 streamlit
 os
-from openai
-from langchain_openai
+openai
+langchain_openai
 dotenv import 
