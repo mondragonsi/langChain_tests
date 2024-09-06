@@ -2,4 +2,4 @@ streamlit
 os
 openai
 langchain_openai
-dotenv import 
+python-dotenv
